@@ -1,6 +1,6 @@
 # Eyeglass-Detection
 
-
+This work is the direct extension/application of FaceNet by Google. 
 
 **Dependencies:**
 
