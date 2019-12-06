@@ -1,0 +1,6 @@
+arguments: train_softmax.py --logs_base_dir ./logs/facenet --models_base_dir ./week1 --pretrained_model ./20180402-114759/20180402-114759.pb --data_dir /shared/kgcoe-research/mil-vdx/shashi_ka_eyeglass/dataset/train/ --image_size 224 --model_def models.inception_resnet_v1 --optimizer ADAM --learning_rate 0.001 --max_nrof_epochs 15 --learning_rate_schedule_file data/learning_rate_schedule_classifier_msceleb.txt --epoch_size 150
+--------------------
+tensorflow version: 1.13.0-rc2
+--------------------
+git hash: 
+--------------------
