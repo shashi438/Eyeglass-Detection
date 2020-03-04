@@ -1,7 +1,6 @@
 # Eyeglass-Detection
 
-This work is the direct extension/application of FaceNet by Google. 
-
+Detect eye glasses using Python and tensorflow, starting with pre-trained weights of FaceNet
 **Dependencies:**
 
 Tensorflow 1.13
